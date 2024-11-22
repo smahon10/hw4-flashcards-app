@@ -14,7 +14,7 @@ const Sidebar = () => {
       <Button aria-label={"Search"} variant="ghost" size="icon">
         <MagnifyingGlassIcon className="w-5 h-5" />
       </Button>
-      <Button aria-label={"Make a Post"} variant="default" size="icon">
+      <Button aria-label={"Add a Deck"} variant="default" size="icon">
         <PlusCircledIcon className="w-5 h-5" />
       </Button>
     </div>
